@@ -45,43 +45,16 @@ dysentery_model_2026/
 ├── README.md                               # This file
 ├── LICENSE                                 # MIT License
 ├── requirements.txt                        # Python dependencies
-├── setup.py                                # Package installation
-│
 ├── Figures.py                              # Complete python code for all figures
 ├── data/
 │   ├── ethiopia_outbreak.csv              # Ethiopian outbreak data (2015-2019)
 │   └── parameters.yaml                    # Default parameter sets
 │
-├── figures/
-│   ├── main/                              # Main figures (Fig1-Fig12)
-│   │   ├── Fig1.png
-│   │   ├── Fig2.png
-│   │   └── ...
-│   └── supplementary/                     # Supplementary figures (S1-S5)
-│       ├── S1_sigma_bifurcation.png
-│       ├── S2_beta2_bifurcation.png
-│       ├── S3_K_bifurcation.png
-│       ├── S4_R0_beta1_beta2.png
-│       └── S5_R0_epsilon_sigma.png
-│
-├── notebooks/
-│   ├── 01_model_exploration.ipynb        # Model dynamics exploration
-│   ├── 02_optimal_control.ipynb           # Optimal control analysis
-│   ├── 03_sensitivity_analysis.ipynb      # Sensitivity analysis
-│   └── 04_serotype_comparison.ipynb       # Serotype comparison
-│
-├── tests/
-│   ├── test_model.py                      # Model unit tests
-│   ├── test_optimal_control.py            # Optimal control tests
-│   └── test_sensitivity.py                # Sensitivity tests
+├── figures                                # Main figures (Fig1-Fig12)
 │
 ├── supplementary/
 │   ├── Supplementary_Materials.tex        # LaTeX source
 │   └── Supplementary_Materials.pdf        # Compiled PDF
-│
-└── docs/
-    ├── api_reference.md                   # API documentation
-    └── user_guide.md                      # User guide
 ```
 
 ---

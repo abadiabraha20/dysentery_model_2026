@@ -427,7 +427,7 @@ If you use this code in your research, please cite:
 
 ## 🙏 Acknowledgements
 
-The authors thank the Ethiopian Public Health Institute for providing outbreak data. No specific funding was received for this research.
+The authors acknowledge institutional support from Mekelle University and thank the anonymous reviewers for their valuable comments. No specific funding was received for this research.
 
 ---
 

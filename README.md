@@ -54,7 +54,7 @@ dysentery_model_2026/
 │
 ├── supplementary/
 │   ├── Supplementary_Materials.tex        # LaTeX source
-│   └── Supplementary_Materials.pdf        # Compiled PDF
+    └── Supplementary_Materials.pdf        # Compiled PDF
 ```
 
 ---

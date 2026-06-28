@@ -45,26 +45,9 @@ dysentery_model_2026/
 ├── README.md                               # This file
 ├── LICENSE                                 # MIT License
 ├── requirements.txt                        # Python dependencies
-├── setup.py                               # Package installation
+├── setup.py                                # Package installation
 │
-├── src/
-│   ├── __init__.py
-│   ├── model.py                           # SEIRS-B model implementation
-│   ├── optimal_control.py                 # Optimal control algorithms
-│   ├── sensitivity.py                     # PRCC and LHS analysis
-│   ├── calibration.py                     # Data calibration tools
-│   ├── serotypes.py                       # Serotype-specific parameters
-│   ├── bifurcation.py                     # Bifurcation analysis
-│   └── utils.py                           # Utility functions
-│
-├── scripts/
-│   ├── generate_figures.py                # Main figure generation (Fig1-12)
-│   ├── generate_supplementary.py          # Supplementary figure generation (S1-5)
-│   ├── run_simulation.py                  # Model simulation
-│   ├── run_optimal_control.py             # Optimal control simulation
-│   ├── run_calibration.py                 # Data calibration
-│   └── run_sensitivity.py                 # Sensitivity analysis
-│
+├── Figures.py                              # Complete python code for all figures
 ├── data/
 │   ├── ethiopia_outbreak.csv              # Ethiopian outbreak data (2015-2019)
 │   └── parameters.yaml                    # Default parameter sets
